@@ -1,0 +1,6 @@
+s1: start
+s2: declare a, b, temp
+s3: read a, b
+s4:a= temp; a=b; b= temp; 
+s5: display a and b
+s6:stop

@@ -1,0 +1,6 @@
+s1: start
+s2: declare h, b, area
+s3: read h, b
+s4:area= h*b/2
+s5: display area
+s6:stop

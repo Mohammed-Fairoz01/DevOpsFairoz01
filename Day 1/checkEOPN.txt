@@ -1,0 +1,12 @@
+find whether number is even or odd or positive or negitive or zero
+
+s1: start
+s2: declare a
+s3: read a
+s4:if a%2==0 & a>0
+display a is even and positive
+else if a%2!=0 & a>0
+display a is odd and positive
+else
+dislay a is negative
+s5: stop

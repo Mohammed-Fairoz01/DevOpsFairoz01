@@ -1,0 +1,11 @@
+s1: start
+s2: declare a, b, c
+s3: read a, b, c
+s4:if a>b & a>c
+display a is big
+else if b>c & b>c
+display b is big
+else
+display c is big
+s5: stop
+s6:stop
