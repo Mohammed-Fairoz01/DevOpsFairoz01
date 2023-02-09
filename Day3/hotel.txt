@@ -1,0 +1,28 @@
+employee management 
+s1: start
+s2: interview the employee
+s3: hire one
+s4: explain rules and regulation 
+s5: employe start to work
+s6: give salary regularly
+s7: stop
+
+order management
+
+s1: start
+s2: keep menu sheet on the table
+s3: take the order
+s4: provide water and tissue 
+s5: collect the order from the customer
+s6: pass the order to the cooking department
+s7: give the ordered item to the customer
+s8: stop
+
+kitchen management
+
+s1: start
+s2: assign the work to the workers according to order
+s3: provide requied items
+s4: provide all rquired facilities to the workers
+s5: supplie the cooked item to the customer
+s8: stop
