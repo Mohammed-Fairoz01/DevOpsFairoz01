@@ -13,10 +13,11 @@ Withdraw Cash
 
 s1:start
 s2:Insert ATM card
-s3:Enter pin
-s4:Enter how much money you want
-s5:collect money and card
-s6:stop
+s3:select language
+s4:Enter pin
+s5:Enter how much money you want
+s6:collect money and card
+s7:stop
 
 Transfer Funds
 s1:start
