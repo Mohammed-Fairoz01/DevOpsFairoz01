@@ -1,0 +1,8 @@
+BEGIN
+      DECLARE num;
+      READ num;
+      if num>=0;
+      DISPLAY it's positive number;
+      else
+      DISPLAY it's Negative number;
+END

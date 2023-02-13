@@ -1,0 +1,7 @@
+perimeter of rectangle
+s1: start
+s2: declare r, peri
+s3: read r
+s4: peri=2*pai*r
+s5:display peri
+s6:stop

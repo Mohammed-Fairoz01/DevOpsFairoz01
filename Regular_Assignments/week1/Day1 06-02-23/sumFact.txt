@@ -1,0 +1,11 @@
+display sum of factors of a given number
+display factors of a given number
+s1: start
+s2: declare n, i, fact 
+s3: read n
+s4: initialize i=1, j=1 fact=0 i<=n, j<=n
+s5: increment  j++
+s6:  if i%j==0
+     fact = fact+n
+s7: display fact
+s6:stop

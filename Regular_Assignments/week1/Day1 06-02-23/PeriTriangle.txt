@@ -1,0 +1,8 @@
+find the perimeter of a triangle
+
+step1:start
+s2: declare a, b, c, per
+s3; read a,b,c
+s4; per = a+b+c
+s5; display per
+s6; stop

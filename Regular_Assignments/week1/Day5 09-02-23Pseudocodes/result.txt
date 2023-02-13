@@ -1,0 +1,22 @@
+BEGIN
+      DECLARE sub1, sub2, sub3, sub4, sub5, avrg, grade, percnt,
+      sum
+      READ sub1, sub2, sub3, sub4, sub5
+      sum = sub1+sub2+sub3+sub4+sub5
+      DISPLAY avrg = sum/5;
+      DISPLAY percnt = (sum/500)*100
+      if percnt>=90
+      DISPLAY grade A
+      break; 
+      else if percnt>=80
+      DISPLAY grade b
+      break;
+      else if percnt>=70
+      DISPLAY grade c
+      break;
+      else if percnt>=60
+      DISPLAY grade d
+      else 
+      DISPLAY failure is the first step to success
+      break;
+END

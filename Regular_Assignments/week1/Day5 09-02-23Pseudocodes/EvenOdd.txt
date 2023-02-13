@@ -1,0 +1,8 @@
+BEGIN
+      DECLARE num;
+      READ num;
+      if num%2==0
+      DISPLAY it's even;
+      else
+      DISPLAY it's odd;
+END

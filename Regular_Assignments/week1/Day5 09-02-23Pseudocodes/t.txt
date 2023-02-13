@@ -1,0 +1,8 @@
+BEGIN
+      DECLARE char;
+      READ char;
+      if char==t;
+      DISPLAY yes it's t;
+      else
+      DISPLAY no it's not t;
+END

@@ -1,0 +1,8 @@
+s1: start
+s2: declare a
+s3: read a
+s4:if a%2==0:
+display a is even
+else
+display a is odd
+s5: stop
