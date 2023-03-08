@@ -1,0 +1,4 @@
+You are given a string that contains both letters and digits. Write a program to separate the letters from the digits and store them in separate arrays. How could you optimize your program to handle very large input strings efficiently?
+Write a program that takes a string as input and outputs all possible permutations of the characters in the string. How could you optimize your program to handle long input strings with many repeated characters?
+You are given two strings. Write a program to find the longest common substring between the two strings. How could you optimize your program to handle very long input strings efficiently?
+Write a program that takes a string as input and outputs the longest palindrome substring in the string. How could you optimize your program to handle very long input strings efficiently?
