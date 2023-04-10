@@ -77,9 +77,9 @@ class Hospital {
     return guardianContactNum;
   }
 
-  public String toString() {
-    return id + " " + name + " " + age + " " + gender + " " + adharNum + " " + mobNum + " " + city + " " + address + " " + doa + " " + guardianName + " " + guardianAddress + " " + guardianContactNum;
-  }
+//   public String toString() {
+//     return id + " " + name + " " + age + " " + gender + " " + adharNum + " " + mobNum + " " + city + " " + address + " " + doa + " " + guardianName + " " + guardianAddress + " " + guardianContactNum;
+//   }
 }
 
 class PatientList {
