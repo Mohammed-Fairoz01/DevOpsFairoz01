@@ -1,6 +1,0 @@
-BEGIN
-     DECLARE side1,side2,side3,perimeter ;
-     READ side1,side2,side3;
-     CALCULATE perimeter = perimeter = side1 + side2 + side3;
-     DISPALY perimeter ;
-END

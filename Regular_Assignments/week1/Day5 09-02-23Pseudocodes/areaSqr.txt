@@ -1,6 +1,0 @@
-BEGIN
-     DECLARE l1,l2,area;
-     READ l1,l2;
-     CALCULATE area=l1*l2;
-     DISPALY area;
-END

@@ -1,6 +1,0 @@
-s1: start
-s2: declare a, b
-s3: read a, b
-s4:b=a+b; a=b-a; b= b-a; 
-s5: display a and b
-s6:stop

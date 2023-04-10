@@ -1,6 +1,0 @@
-BEGIN
-     DECLARE h,b,area;
-     READ h,b;
-     CALCULATE area=h*b/2;
-     DISPALY area;
-END

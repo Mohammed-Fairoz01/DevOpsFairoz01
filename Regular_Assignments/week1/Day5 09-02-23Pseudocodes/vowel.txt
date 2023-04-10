@@ -1,8 +1,0 @@
-BEGIN
-      DECLARE char;
-      READ char;
-      if char==a,e,i,o,u;
-      DISPLAY yes it's vowel;
-      else
-      DISPLAY it's consonant;
-END

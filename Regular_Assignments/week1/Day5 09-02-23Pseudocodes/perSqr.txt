@@ -1,6 +1,0 @@
-BEGIN
-     DECLARE length,width,perimeter ;
-     READ length,width;
-     CALCULATE perimeter = 2 * (length + width);
-     DISPALY perimeter ;
-END
