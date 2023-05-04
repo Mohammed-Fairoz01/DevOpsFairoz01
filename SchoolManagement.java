@@ -8,8 +8,10 @@ import java.util.*;
 // Your program should have a main method that allows users to interact with the School object and perform the actions listed above. The program should continue running until the user chooses to exit.
 // I hope this gives you a good starting point for your assignment!
 
-// Regenerate response
+// Abstraction
+//The given code snippet implements a simple School Management System in Java. It defines three classes - Teacher, Student, and School, that are used to represent Teachers, Students, and Schools respectively. The Teacher and Student classes have private fields for name and subject/grade respectively, along with getter and setter methods. The School class has ArrayLists to store teachers and students, and provides methods to add or remove them. The main method takes input from the user to add new students and teachers to the school.
 
+//To improve the abstraction of the School Management System, one could introduce additional classes to represent subjects, courses, and classrooms. Additionally, the School class could have methods to assign students to courses and classrooms, and to calculate and display overall performance metrics. The Student class could also be modified to include fields for personal information such as address and contact details. Such modifications would result in a more comprehensive and scalable School Management System.
 class Teacher{
   private String name;
   private String subject;
