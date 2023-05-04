@@ -13,6 +13,10 @@
 // Use custom exceptions to handle cases such as insufficient stock or invalid payment information.
 // Implement additional features such as search,
 
+//abstract
+//The given code is a simple implementation of an online shopping system. It consists of three product classes, ElectronicProduct, ClothingProduct, and ShoppingCart, and three main operations, insert, search, and checkout. The ElectronicProduct and ClothingProduct classes implement the Product interface, which defines the common properties of all products. The ShoppingCart class holds the selected products, and the insert operation allows adding new products to it. The search operation searches for a specific product by name and displays its details. The Checkout operation calculates the total price of all products in the cart and initiates the payment process.
+
+//However, the code lacks proper abstraction and encapsulation. For example, there are several fields and methods in the ElectronicProduct class that are not being used. Also, the ShoppingCart class does not have any method to remove products from the cart. Moreover, the program does not have any provision for payment processing, which is an essential feature of an online shopping system. To improve the code's quality and maintainability, the implementation should be refactored and proper abstraction and encapsulation principles should be followed.
 import java.util.*;
 
 import javax.naming.InsufficientResourcesException;
