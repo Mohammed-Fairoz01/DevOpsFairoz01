@@ -7,6 +7,10 @@
 // IT - This is a derived class of the Department class. It should have additional properties such as technology, infrastructure, etc. It should have a constructor that initializes these properties, and getters and setters to access and modify them. It should also implement the "Operation" interface with a method implementation of the "performOperation" method that will simulate IT operations such as hiring, firing, and budget allocation.
 // In the main method, create objects of different types of employees and departments, and simulate employee management and department operations by calling the "performOperation" method of the respective department.
 
+//abstract
+//The given code consists of classes that represent an organization's employees and departments. The Employee class contains fields such as name, age, and salary, and its child classes Manager and Developer contain additional fields. The Department class contains name and budget fields, and its child classes Marketing and IT contain additional fields and implement the Operation interface. The main method creates instances of these classes and prints their details, as well as calls the performOperation method on the Marketing and IT classes.
+
+//The code uses object-oriented programming concepts such as inheritance, abstraction, and encapsulation to represent an organization's structure and operations. The main method demonstrates how these classes can be used to create and manage employees and departments, and how the Operation interface can be used to define and perform operations specific to each department.
 abstract class Employee{
   private String name;
   private int age;
