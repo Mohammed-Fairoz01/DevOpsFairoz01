@@ -1,3 +1,11 @@
+// This is a Java program that manages patient information in a hospital. It has two classes: Hospital and PatientList. The Hospital class defines the attributes of a patient, while the PatientList class maintains a list of patients and provides methods to add, remove, and search for patients in the list.
+
+// The Hospital class has private instance variables for storing the patient's unique id, name, age, gender, adhar number, mobile number, city, address, date of admission, guardian name, guardian address, and guardian contact number. It has a constructor that takes in all of these attributes and initializes them.
+
+// The PatientList class has a private instance variable that is an ArrayList of Hospital objects. It provides methods to add a patient to the list, remove a patient from the list by their id, get a patient by their id, get a list of patients by their city, get a list of patients by their name, and get a list of patients within an age range.
+
+// The main method of the HospitalManagement class creates an instance of the PatientList class and prompts the user to enter the details of several patients. It then adds these patients to the list and allows the user to search for patients by their id, city, name, and age range.
+
 import java.util.*;
 
 class Hospital {
